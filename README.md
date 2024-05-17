@@ -18,6 +18,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/chamishka-samarawickrama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chamishka-samarawickrama" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/chamishka_isg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@chamishka_isg" height="30" width="40" /></a>
+<a href="https://www.sololearn.com/en/profile/29805862" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/6320878f1e36fa673d70c589/89866420-93cb-4a44-a93c-86246efe71c5/logos+for+granatus+portfolio_AM-44.png" alt="Lahiru sandaruwan" height="70" width="100" /></a>
+  <a href="https://www.naukri.com/code360/profile/35c29d2b-6832-40a6-b122-07864c099e01" target="blank"><img align="center" src="https://www.financialexpress.com/wp-content/uploads/2022/06/coding-ninjas.png" alt="lahiru" height="30" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
