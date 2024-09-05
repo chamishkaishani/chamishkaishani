@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img  src="![1683705023858](https://github.com/user-attachments/assets/7357bafc-d1cd-4d95-aa41-2d29f9e0fa3a)" height="300" width="400"   />
+<img  src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" height="300" width="400"   />
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamishkaishani&label=Profile%20views&color=0e75b6&style=flat" alt="chamishkaishani" /> </p>
 <h2 align="left">About me</h1>
