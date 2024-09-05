@@ -4,8 +4,7 @@
 
 
 <div align="center">
-<img  src="![1683705023858](https://github.com/user-attachments/assets/3dd3be28-2cc1-4786-9310-d549ad01b325)
-" height="300" width="400"   />
+<img  src="![1683705023858](https://github.com/user-attachments/assets/7357bafc-d1cd-4d95-aa41-2d29f9e0fa3a)" height="300" width="400"   />
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamishkaishani&label=Profile%20views&color=0e75b6&style=flat" alt="chamishkaishani" /> </p>
 <h2 align="left">About me</h1>
